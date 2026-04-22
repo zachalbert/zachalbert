@@ -15,7 +15,7 @@ _____________________________________________________
 # 👋 I'm Zac
 
 
-I've been doing some form of hybrid design and development since the late 90s, and have focused on designer leadership and management for the last decade, mostly at companies building developer tools. I'm currently leading design at [Cortex](https://cortex.io).
+I've been doing some form of hybrid design and development since the late 90s, and have focused on designer leadership and management for the last decade, mostly at companies building developer tools. I'm currently a UX director at [LaunchDarkly](https://launchdarkly.com/).
 
 I've cofounded a company, been first hire at several others, and generally focus on building design orgs from the ground up. However, what I'm most proud of is that I've had the privilege to teach and mentor hundreds of designers throughout my career. I'm happy to offer advice or portfolio guidance for anyone who reaches out.
 
