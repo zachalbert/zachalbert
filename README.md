@@ -21,7 +21,7 @@ I've cofounded a company, been first hire at several others, and generally focus
 
 Learn more about my past work on my perpetually out-of-date portfolio: [zachalbert.com](https://www.zachalbert.com/).
 
-![Head of Design at Cortex](https://img.shields.io/badge/Role-Head_of_Design_@_Cortex-7458DB)
+![UX director](https://img.shields.io/badge/Role-Director,_UX_@_LaunchDarkly-191919)
 ![Based in Portland, OR](https://img.shields.io/badge/Based_in-Portland,_OR-0D924D)
 
 ![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=flat&logo=figma&logoColor=F24E1E)
